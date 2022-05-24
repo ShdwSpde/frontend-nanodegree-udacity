@@ -1,0 +1,56 @@
+h3 {
+font-size: 3em;
+text-align: center;
+padding: 2px;
+color: pink;
+margin: 10px;
+text-decoration: underline;
+background-color: white;
+}
+
+img {
+height: 300px;
+width: 300px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+padding: 10px;
+}
+
+#box {
+width: 320px;
+border: 2px solid black;
+background-color: lightpink;
+}
+
+#description {
+font-style: italic;
+padding: 5px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+text-align: center;
+}
+
+#end {
+font-weight: bold;
+font-size: 28px;
+text-align: center;
+color: pink;
+}
+
+#box2 {
+border: 1px solid black;
+margin: 5px;
+background-color: white;
+}
+
+span {
+font-weight: bold;
+color: purple;
+font-size: 1.1em;
+}
+
+ul {
+list-style: none;
+}
