@@ -1,0 +1,58 @@
+.nav {
+  border: 5px solid black;
+  margin: 0 auto;
+  padding: 10px;
+  text-align: center;
+}
+
+.red {
+  color: red;
+  border: 5px dotted;
+  margin: auto 0;
+  padding: 10px;
+  text-align: center;
+}
+
+.green {
+  color: green;
+  border: 5px dotted;
+  margin: auto 0;
+  padding: 10px;
+  text-align: center;
+}
+
+.blue {
+  color: blue;
+  border: 5px dotted;
+  margin: auto 0;
+  padding: 10px;
+  text-align: center;
+}
+
+.background {
+  background: purple;
+  border: 2px solid black;
+}
+
+.content {
+  margin: 40px auto;
+  padding: 10px 0px;
+  height: 300px;
+  border: 2px dotted white
+}
+
+#pic1 {
+  width: 100%;
+  height: 600px;
+  border: 1px dotted white;
+}
+
+.two {
+  text-align: center;
+  padding: 20px;
+  width: 600px;
+}
+
+h2 {
+  text-decoration: underline;
+}
